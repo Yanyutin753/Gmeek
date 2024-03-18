@@ -16,7 +16,7 @@ Gmeek is a Blog Generator based on `Github Pages` and `Github Issues` and `Githu
 
 3. Open an issue, start writing, and add a label. After saving the issue, blog content will be automatically created. After a while, it can be accessed through https://XXX.github.io
 
-The above installation is just a guide, and some configuration details will be written later. If you have any questions, please submit [Issues](https://github.com/Meekdai/Gmeek/issues) in this repository
+The above installation is just a guide, and some configuration details will be written later. If you have any questions, please submit [Issues](https://github.com/Yanyutin753/Gmeek/issues) in this repository
 
 ### Feature
 
